@@ -1,0 +1,10 @@
+.write {
+    position: relative;
+    right: -400px;
+    font-size: 60px;
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.big {
+     font-size: 35px;
+}
